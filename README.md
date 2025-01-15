@@ -69,12 +69,3 @@ Awesome Learning materials for CUDA and Triton coding for LLM
 - **Triton Resources on GitHub**: A curated list of Triton resources, including tutorials, kernels, and academic papers.  
   [Link](https://github.com/rkinas/triton-resources) 
 
----
-
-## **6. Recommended Learning Path**
-1. **Start with CUDA Basics**: Familiarize yourself with CUDA programming using the official documentation and sample code.
-2. **Explore Triton**: Learn Triton through its documentation and tutorials, focusing on kernel writing and optimization.
-3. **Apply to LLMs**: Use TensorRT-LLM and Liger Kernel to implement and optimize LLM inference and training.
-4. **Benchmark and Optimize**: Use tools like GenAI-Perf to measure performance and apply advanced techniques like SplitK GEMM and Flash Attention.
-
-For more detailed information, refer to the provided links and repositories. Happy learning!
